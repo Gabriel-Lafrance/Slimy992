@@ -10,7 +10,8 @@ Currently, I am dedicating myself to becoming a better web developer. I am fluen
 *   🖥️  See my portfolio at [www.gabriellafrance.com](http://www.gabriellafrance.com)
 *   ✉️  You can contact me at [lafgab01@hotmail.com](mailto:lafgab01@hotmail.com)
 *   🧠  I'm currently learning as much as possible
-*   ⚡  Looking for a job or an intership### Skills 
+*   ⚡  Looking for a job or an intership
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
