@@ -11,7 +11,6 @@ Currently, I am dedicating myself to becoming a better web developer. I am fluen
 * ✉️  You can contact me at [lafgab01@hotmail.com](mailto:lafgab01@hotmail.com)
 * 🧠  I'm currently learning as much as possible
 * 📖  Half self-taught, half taught
-* ⚡  Looking for a job or an intership
 
 ### Skills
 
